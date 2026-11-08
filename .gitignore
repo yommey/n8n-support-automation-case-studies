@@ -1,0 +1,8 @@
+.env
+.env.*
+*.db
+*.sqlite
+private/
+credentials/
+secrets/
+.DS_Store
